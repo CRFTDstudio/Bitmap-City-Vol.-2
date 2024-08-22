@@ -1,7 +1,7 @@
 ---
 description: >-
-  Bitmap City Vol. 2 is meticulously designed to be generated in complete layers
-  (.png and .WebP), with varying degrees of opacity and paint.
+  Bitmap City Vol. 2 is designed to be generated in complete layers (.png and
+  .WebP), with varying degrees of opacity and paint laid on top of one another.
 ---
 
 # Layered Artwork
@@ -65,7 +65,7 @@ Examples of Layer 1 + Layer 2 (solid colors)
 
  
 
-<figure><img src=".gitbook/assets/Solid Color 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Solid Color 2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -141,7 +141,7 @@ Examples of Layer 1 + Layer 2 + Layer 3
 
 <div>
 
-<figure><img src=".gitbook/assets/ALPHA.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ALPHA (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 

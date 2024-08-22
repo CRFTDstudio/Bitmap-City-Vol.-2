@@ -77,7 +77,7 @@ Example of Base art B\&W + Gradient Color 90° (single image for base art)
 
  
 
-<figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
