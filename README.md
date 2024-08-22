@@ -61,9 +61,16 @@ _Bitmap City Vol. 2_ aims to seamlessly merge digital and physical landscapes by
 
 ### Why DMT?&#x20;
 
-Digital Matter Theory proposes that it's possible to create a form of digital substance by harnessing the inherent patterns within data. Without building this collection within the DMT framework, achieving the pristine quality of non-arbitrary data would be unattainable, making the vision of bridging two worlds impossible.&#x20;
-
-The idea of DMT was introduced by [The Block Runner](https://x.com/TheBlockRunner) team and [Bitoshi Blockamoto](https://x.com/blockamoto) and can be investigated further [HERE](https://digital-matter-theory.gitbook.io/digital-matter-theory).
+[Digital Matter Theory](https://digital-matter-theory.gitbook.io/digital-matter-theory) proposes that it's possible to create a form of digital substance by harnessing the inherent patterns within data. Without building this collection within the DMT framework, achieving the pristine quality of non-arbitrary data would be unattainable, making the vision of bridging two worlds impossible.&#x20;
 
 ***
 
+### Acknowledgements
+
+Bitmap City Vol. 2 was created by [CRFTD](https://x.com/\_CRFTD\_).
+
+[DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory) was introduced by [The Block Runner](https://x.com/TheBlockRunner) team.
+
+Thanks to the crew at [Scarce.City](https://x.com/scarcedotcity) for backend help in making Bitmap City Vol. 2 come alive on the blockchain.
+
+Thanks to [Natcats](https://natcats.gitbook.io/natcats) and [EV](https://x.com/Evonbit) for introducing us to DMT PFP collections and showing what is possible.
