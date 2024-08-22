@@ -21,7 +21,7 @@ layout:
 
 ## Bitmap City Vol. 2
 
-_Bitmap City Vol. 2_ is the first collection in the field of Digital Matter Theory (DMT) to be built upon photography, redefining fine art on the Bitcoin blockchain. As a pioneering digital art collection, it masterfully blends imagery, bitmap blocks, Pantone color sets, and distinct web3 slang into each piece, challenging the boundaries of fine art and setting a new standard for the class on the blockchain.
+_Bitmap City Vol. 2_ is the first collection in the field of Digital Matter Theory (DMT) to be built upon photography, redefining fine art on the Bitcoin blockchain. As a pioneering digital art collection, it masterfully blends imagery, bitmap blocks, Pantone color sets, and distinct web3 slang into each piece, challenging the boundaries of fine art and setting a new standard for the class.
 
 
 
