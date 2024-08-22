@@ -65,7 +65,7 @@ _Bitmap City Vol. 2_ aims to seamlessly merge digital and physical landscapes by
 
 ***
 
-### Acknowledgements
+### Acknowledgments
 
 Bitmap City Vol. 2 was created by [CRFTD](https://x.com/\_CRFTD\_).
 
