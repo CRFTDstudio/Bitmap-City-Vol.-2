@@ -2,6 +2,6 @@
 
 * **BITS Pattern:** cc
 * **Element Name:** corn.cc.11.element
-* **Layers:** Layer 1 - 50, Layer 2 - 56, Layer 3 - 25
-* **Supply:** Starting supply of 10,080 out of 70,000 possible generated outcomes
+* **Layers:** Layer 1 - 50, Layer 2 - 56, Layer 3 - 36
+* **Supply:** Starting supply of 10,080 out of 100,800 possible generated outcomes
 
