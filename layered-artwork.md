@@ -10,7 +10,7 @@ description: >-
 
 #### High-Resolution Photography
 
-Aerial photography was captured inside a propeller plane using Canon R5c with Zeiss and Canon prime lenses. Flying altitudes ranged from 5,000 to 10,000 feet to provide ample variations in the topography of cities, towns, and farmland. The high-resolution photography forms the foundation of each artwork, bringing a tangible element to the digital space. There are a total of 25 color photographs and 25 B\&W photographs for a base layer of 50.
+Aerial photography was captured inside of a propeller plane using a Canon R5c and Canon prime lenses. Flying altitudes ranged from 5,000 to 10,000 feet to provide ample variations in the topography of cities, towns, and farmland. The high-resolution photography forms the foundation of each artwork, bringing a tangible element to the digital space. There are a total of 25 color photographs and 25 B\&W photographs for a base layer of 50.
 
 #### Bitmap Blocks
 
