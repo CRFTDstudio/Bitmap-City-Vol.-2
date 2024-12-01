@@ -29,7 +29,7 @@ _Bitmap City Vol. 2_ is the first collection of its kind, merging fine art with 
 
 ### Artistic Vision
 
-_Bitmap City Vol. 2_ aims to seamlessly merge digital and physical landscapes by carefully juxtaposing the digital topography of bitmaps with the analogous terrains of cities, towns, and farms. Utilizing non-arbitrary data sets, meticulously chosen colors, and Web3 slang, the collection creates a unified space where three worlds coalesce into one—wholly digital, wholly human, and a shared, in-between space. Every element is intentional, blurring the boundaries between the digital and the physical, transforming them into a singular, cohesive narrative.
+The artistic vision for _Bitmap City Vol. 2_ is to redefine fine art by bridging traditional, fine art practices with cutting-edge blockchain technology. By leveraging Digital Matter Theory (DMT), the collection explores the intersection of physical and digital spaces, using photography as its foundation while incorporating bitmap blocks, Pantone colors, and web3 slang. It seeks to create a third, shared space where the tangible (fully human art) and the virtual (fully digital framework) coexist, challenging perceptions of fine art and inviting viewers to reflect on the evolving relationship between humanity, technology, and art.
 
 ***
 
