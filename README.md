@@ -21,7 +21,7 @@ layout:
 
 ## Bitmap City Vol. 2
 
-_Bitmap City Vol. 2_ is the first collection of its kind, merging fine art with generative art through the framework of Digital Matter Theory (DMT). Each piece fuses high-resolution photography, bitmap blocks, Pantone colors, and web3 slang. By leveraging the Merkle root embedded in Bitcoin’s blockchain data, the differing layers of fine art are algorithmically randomized, assembled, and fused, creating the final generated artwork.
+_Bitmap City Vol. 2_ is the first collection of its kind, merging fine art with generative art through the framework of Digital Matter Theory (DMT). Each piece blends high-resolution photography, bitmap blocks, Pantone colors, and web3 slang. By leveraging the Merkle root embedded in Bitcoin’s blockchain data, the differing layers of fine art are algorithmically randomized, assembled, and fused, creating the final generated artwork.
 
 <div><figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Solid Color 2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/ALPHA.jpg" alt=""><figcaption></figcaption></figure></div>
 
