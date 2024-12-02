@@ -39,6 +39,28 @@ The artistic vision for _Bitmap City Vol. 2_ is to redefine fine art by bridging
 
 ***
 
+### Mint and Own a Piece of History:
+
+{% embed url="https://mscribe.io/nats/dmt-bitmap%20city%20vol%202" %}
+
+### On-Chain Fine Art Viewer
+
+{% embed url="https://ordinals.com/inscription/77127899" %}
+
+Current Blocks Available for Search:
+
+Gen I: 38304
+
+Gen II: 108864&#x20;
+
+Gen III: 191520&#x20;
+
+Gen IV: 449568&#x20;
+
+Gen V: 741888
+
+
+
 ### Acknowledgments
 
 Bitmap City Vol. 2 was created by [CRFTD](https://x.com/_CRFTD_).
