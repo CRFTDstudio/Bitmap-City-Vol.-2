@@ -43,30 +43,22 @@ The artistic vision for _Bitmap City Vol. 2_ is to redefine fine art by bridging
 
 {% embed url="https://mscribe.io/nats/dmt-bitmap%20city%20vol%202" %}
 
+***
+
 ### On-Chain Fine Art Viewer
 
 {% embed url="https://ordinals.com/inscription/77127899" %}
 
 Current Blocks Available for Search:
 
-Gen I: 38304
+Generation I: Blocks 38304 – 40319&#x20;
 
-Gen II: 108864&#x20;
+Generation II: Blocks 108864 – 110879&#x20;
 
-Gen III: 191520&#x20;
+Generation III: Blocks 191520 – 193535&#x20;
 
-Gen IV: 449568&#x20;
+Generation IV: Blocks 449568 – 451583&#x20;
 
-Gen V: 741888
+Generation V: Blocks 741888 – 749903
 
-
-
-### Acknowledgments
-
-Bitmap City Vol. 2 was created by [CRFTD](https://x.com/_CRFTD_).
-
-[DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory) was introduced by [The Block Runner](https://x.com/TheBlockRunner) team.
-
-Thanks to the crew at [Scarce.City](https://x.com/scarcedotcity) for backend help in making Bitmap City Vol. 2 come alive on the blockchain.
-
-Thanks to [Natcats](https://natcats.gitbook.io/natcats) and [EV](https://x.com/Evonbit) for introducing us to DMT PFP collections and showing what is possible.
+***

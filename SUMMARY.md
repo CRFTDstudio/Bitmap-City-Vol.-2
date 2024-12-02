@@ -4,3 +4,4 @@
 * [Layered Artwork](layered-artwork.md)
 * [Collections Within Collection](collections-within-collection.md)
 * [Technical Details](technical-details.md)
+* [Acknowledgments](acknowledgments.md)
